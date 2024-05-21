@@ -14,7 +14,7 @@ I am a senior Financial Analyst/ML Developer with ~10 years of experience. I hav
 - PostgreSQL
 - FastAPI
 
-## ⚫️ My Top Technologies ⚫️
+## My Main Technologies
 - Python, SQL, React
 - PyTorch, Scikit-Learn
 - NumPy, Pandas
@@ -23,7 +23,7 @@ I am a senior Financial Analyst/ML Developer with ~10 years of experience. I hav
 - DVC, Weights & Biases, MLFlow
 - PostgreSQL, Elasticsearch, Redis
 
-## ⚫️ My Top Interests ⚫️
+## My Interests
 - MLOps/ML-Engineering/Data Science
 - Finance
 - Recommendation Systems
@@ -32,8 +32,6 @@ I am a senior Financial Analyst/ML Developer with ~10 years of experience. I hav
 - FAST API, gRPC & Streaming Design
 - Cloud & Microservices
 - Distributed Systems
-
-💬 Do you need machine learning solutions for your business? Let's discuss!
 
 ## Let's Connect ↓
 
