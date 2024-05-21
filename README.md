@@ -1,37 +1,21 @@
 # About Me
 
-I am a senior Financial Analyst/ML Developer with ~10 years of experience. I have worked at companies like KPMG, RatePay, and ReCap, specializing in Online and Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling. Additionally, I hold a CFA Charterholder designation. My expertise lies in designing and implementing modular, scalable, and production-ready machine learning systems.
-## About My Primary Skills
+👋 Senior Financial Analyst/ML Developer with ~10 years of experience. Worked at KPMG, RatePay, and ReCap. Specialize in Online/Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling. Also, a CFA Charterholder.
 
-- Python
-- React/Next JS
-- Tensorflow/Keras
-- Pandas/Polars/NumPy
-- Linux - Fedora Workstation
-- Docker
-- Git/GitHub
-- GCP/Serverless
-- PostgreSQL
-- FastAPI
+💼 Expertise in designing and implementing modular, scalable, and production-ready machine learning systems.
 
-## My Main Technologies
-- Python, SQL, React
-- PyTorch, Scikit-Learn
-- NumPy, Pandas
-- AWS, GCP
-- Docker, FastAPI, Airflow, Kafka, Spark
-- DVC, Weights & Biases, MLFlow
-- PostgreSQL, Elasticsearch, Redis
+## Skills, Technologies & Interests
 
-## My Interests
-- MLOps/ML-Engineering/Data Science
-- Finance
-- Recommendation Systems
-- Batch & Online Predicition
-- Continuous Training & Monitoring
-- FAST API, gRPC & Streaming Design
-- Cloud & Microservices
-- Distributed Systems
+| **Primary Skills**                 | **Main Technologies**             | **Interests**                          |
+|------------------------------------|-----------------------------------|----------------------------------------|
+| 💻 Python                           | 🐍 Python                         | 🛠️ MLOps/ML-Engineering/Data Science  |
+| 🧠 Tensorflow/Keras                 | 🔥 PyTorch/Scikit-Learn          | 💰 Finance                             |
+| 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                   | 🎯 Recommendation Systems              |
+| 🐧 Linux (Fedora Workstation)       | ☁️ AWS/GCP                       | 🔄 Batch & Online Prediction           |
+| 🐳 Docker                           | 🐳 Docker                        | 📊 Continuous Training & Monitoring   |
+| 🌱 Git/GitHub                       | 🚀 FastAPI/Airflow               | 🚀 FAST API/gRPC/Streaming Design      |
+|                                    | 🛠️ Kafka/Spark                   | ☁️ Cloud & Microservices              |
+|                                    | 🐘 PostgreSQL/Elasticsearch/Redis | 🌐 Distributed Systems                 |
 
 ## Let's Connect ↓
 
