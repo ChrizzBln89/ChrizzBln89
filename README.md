@@ -4,14 +4,13 @@ I am a senior Financial Analyst/ML Developer with ~10 years of experience. I hav
 ## About My Primary Skills
 
 - Python
-- React/Next JS/
+- React/Next JS
 - Tensorflow/Keras
-- Pandas/Polars
-- NumPy
-- Linux/Fedora
+- Pandas/Polars/NumPy
+- Linux - Fedora Workstation
 - Docker
 - Git/GitHub
-- GCP
+- GCP/Serverless
 - PostgreSQL
 - FastAPI
 
@@ -28,7 +27,7 @@ I am a senior Financial Analyst/ML Developer with ~10 years of experience. I hav
 - MLOps/ML-Engineering/Data Science
 - Finance
 - Recommendation Systems
-- Batch & Online Serving
+- Batch & Online Predicition
 - Continuous Training & Monitoring
 - FAST API, gRPC & Streaming Design
 - Cloud & Microservices
