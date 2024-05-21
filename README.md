@@ -1,16 +1,41 @@
-## Hi there 👋
+# About Me
 
-<!--
-**ChrizzBln89/ChrizzBln89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Financial Analyst/ML Developer with ~10 years of experience. I have worked at companies like KPMG, RatePay, and ReCap, specializing in Online and Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling. Additionally, I hold a CFA Charterholder designation. My expertise lies in designing and implementing modular, scalable, and production-ready machine learning systems for global companies.
+## About My Primary Skills
 
-Here are some ideas to get you started:
+- Python
+- React/Next JS/
+- Tensorflow/Keras
+- Pandas/Polars
+- NumPy
+- Linux/Fedora
+- Docker
+- Git/GitHub
+- GCP
+- PostgreSQL
+- FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚫️ My Top Technologies ⚫️
+- Python, SQL, React
+- PyTorch, Scikit-Learn
+- NumPy, Pandas
+- AWS, GCP
+- Docker, FastAPI, Airflow, Kafka, Spark
+- DVC, Weights & Biases, MLFlow
+- PostgreSQL, Elasticsearch, Redis
+
+## ⚫️ My Top Interests ⚫️
+- MLOps/ML-Engineering/Data Science
+- Finance
+- Recommendation Systems
+- Batch & Online Serving
+- Continuous Training & Monitoring
+- FAST API, gRPC & Streaming Design
+- Cloud & Microservices
+- Distributed Systems
+
+💬 Do you need machine learning solutions for your business? Let's discuss!
+
+## Let's Connect ↓
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
