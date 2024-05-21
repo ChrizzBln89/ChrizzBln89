@@ -8,14 +8,14 @@
 
 | **Primary Skills**                 | **Main Technologies**             | **Interests**                          |
 |------------------------------------|-----------------------------------|----------------------------------------|
-| 💻 Python                           | 🐍 Python                         | 🛠️ MLOps/ML-Engineering/Data Science  |
+| 💻 Python                           | 🐍 Python                        | 🛠️ MLOps/ML-Engineering/Data Science  |
 | 🧠 Tensorflow/Keras                 | 🔥 PyTorch/Scikit-Learn          | 💰 Finance                             |
-| 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                   | 🎯 Recommendation Systems              |
+| 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                  | 🎯 Recommendation Systems              |
 | 🐧 Linux (Fedora Workstation)       | ☁️ AWS/GCP                       | 🔄 Batch & Online Prediction           |
 | 🐳 Docker                           | 🐳 Docker                        | 📊 Continuous Training & Monitoring   |
-| 🌱 Git/GitHub                       | 🚀 FastAPI/Airflow               | 🚀 FAST API/gRPC/Streaming Design      |
-|                                    | 🛠️ Kafka/Spark                   | ☁️ Cloud & Microservices              |
-|                                    | 🐘 PostgreSQL/Elasticsearch/Redis | 🌐 Distributed Systems                 |
+| 🌱 Git/GitHub                       | 🚀 FastAPI                       | 🚀 FAST API/gRPC/Streaming Design      |
+|                                     | 🛠️ Dagster                       | ☁️ Cloud & Microservices              |
+|                                     | 🐘 PostgreSQL                     | 🌐 Distributed Systems                 |
 
 ## Let's Connect ↓
 
