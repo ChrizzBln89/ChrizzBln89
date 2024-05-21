@@ -1,6 +1,6 @@
 # About Me
 
-I am a senior Financial Analyst/ML Developer with ~10 years of experience. I have worked at companies like KPMG, RatePay, and ReCap, specializing in Online and Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling. Additionally, I hold a CFA Charterholder designation. My expertise lies in designing and implementing modular, scalable, and production-ready machine learning systems for global companies.
+I am a senior Financial Analyst/ML Developer with ~10 years of experience. I have worked at companies like KPMG, RatePay, and ReCap, specializing in Online and Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling. Additionally, I hold a CFA Charterholder designation. My expertise lies in designing and implementing modular, scalable, and production-ready machine learning systems.
 ## About My Primary Skills
 
 - Python
