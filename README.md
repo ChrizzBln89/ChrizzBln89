@@ -11,9 +11,9 @@
 | 💻 Python                           | 🐍 Python                        | 🛠️ MLOps/ML-Engineering/Data Science  |
 | 🧠 Tensorflow/Keras                 | 🔥 PyTorch/Scikit-Learn          | 💰 Finance                             |
 | 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                  | 🎯 Recommendation Systems              |
-| 🐧 Linux (Fedora Workstation)       | ☁️ GCP                       | 🔄 Batch & Online Prediction           |
+| 🐧 Linux (Fedora Workstation)       | ☁️ GCP                           | 🔄 Batch & Online Prediction           |
 | 🐳 Docker                           | 🐳 Docker                        | 📊 Continuous Training & Monitoring   |
-| 🌱 Git/GitHub                       | 🚀 FastAPI                       | 🚀 FAST API/gRPC/Streaming Design      |
+| 🌱 Git/GitHub                       | 🚀 FastAPI                       | 🚀 FAST API      |
 |                                     | 🛠️ Dagster                       | ☁️ Cloud & Microservices              |
 |                                     | 🐘 PostgreSQL                     | 🌐 Distributed Systems                 |
 
