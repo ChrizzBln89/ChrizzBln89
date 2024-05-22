@@ -19,16 +19,16 @@
 
 ## Tools I use for building scalable and robust ML-Models/Systems
 
-| **ML-Tasks**                       | **Tool Box**                      | **Description**                          |
+| **ML-Tasks**                       | **Tool Box**                      | **GitHub Repository**                    |
 |------------------------------------|-----------------------------------|----------------------------------------|
-| Model Registry 🗄️                  | Weights & Biases 📊               | Centralized repository for storing, versioning, and managing machine learning models. |
-| Data Versioning 📊                 | Weights & Biases 📊               | Tracking and managing changes to datasets throughout the machine learning lifecycle. |
-| ML-Pipeline 🛠️                    | Dagster                           | Orchestrating and automating complex workflows for machine learning pipelines. |
-| API 🚀                             | FAST API                          | Building robust and scalable APIs for serving machine learning models. |
-| Neural Networks 🧠                 | Keras                             | Constructing and training artificial neural networks for various machine learning tasks. |
-| Machine Learning Models 🤖         | SciKitLearn                       | Implementing and evaluating machine learning models using the popular Scikit-learn library. |
-| Hyperparameter Tuning             | Weights & Biases, Optuna          | Optimizing model performance by searching for the best hyperparameters. |
-| Experiment Tracking               | Weights & Biases, MLFlow          | Tracking and organizing experiments to understand model performance and reproducibility. |
+| Model Registry 🗄️                  | Weights & Biases 📊               | [GitHub Repo]([https://github.com/yourusername/repo](https://github.com/wandb/wandb))  |
+| Data Versioning 📊                 | Weights & Biases 📊               | [GitHub Repo]([https://github.com/yourusername/repo](https://github.com/wandb/wandb))  |
+| ML-Pipeline 🛠️                    | Dagster 🔧                        | [GitHub Repo](https://github.com/yourusername/repo)  |
+| API 🚀                             | FAST API 🌐                       | [GitHub Repo](https://github.com/yourusername/repo)  |
+| Neural Networks 🧠                 | Keras 🧬                          | [GitHub Repo](https://github.com/yourusername/repo)  |
+| Machine Learning Models 🤖         | SciKitLearn 📘                    | [GitHub Repo](https://github.com/yourusername/repo)  |
+| Hyperparameter Tuning 🎛️          | Weights & Biases 📊, Optuna ⚙️    | [GitHub Repo](https://github.com/yourusername/repo)  |
+| Experiment Tracking 🧪             | Weights & Biases 📊, MLFlow 🔍    | [GitHub Repo](https://github.com/yourusername/repo)  |
 
 
 
