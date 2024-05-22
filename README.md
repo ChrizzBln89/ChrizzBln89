@@ -23,10 +23,10 @@
 |------------------------------------|-----------------------------------|----------------------------------------|
 | Model Registry 🗄️                  | Weights & Biases 📊               | [GitHub Repo](https://github.com/wandb/wandb)  |
 | Data Versioning 📊                 | Weights & Biases 📊               | [GitHub Repo](https://github.com/wandb/wandb)  |
-| ML-Pipeline 🛠️                    | Dagster 🔧                        | [GitHub Repo](https://github.com/keras-team/keras)](https://github.com/dagster-io/dagster)  |
-| API 🚀                             | FAST API 🌐                       | [GitHub Repo](https://github.com/yourusername/repo)](https://github.com/tiangolo/fastapi)  |
-| Neural Networks 🧠                 | Keras 🧬                          | [GitHub Repo](https://github.com/yourusername/repo)](https://github.com/keras-team/keras)  |
-| Machine Learning Models 🤖         | SciKitLearn 📘                    | [GitHub Repo](https://github.com/yourusername/repo)](https://github.com/scikit-learn/scikit-learn)  |
+| ML-Pipeline 🛠️                    | Dagster 🔧                        | [GitHub Repo](https://github.com/dagster-io/dagster)  |
+| API 🚀                             | FAST API 🌐                       | [GitHub Repo](https://github.com/tiangolo/fastapi)  |
+| Neural Networks 🧠                 | Keras 🧬                          | [GitHub Repo](https://github.com/keras-team/keras)  |
+| Machine Learning Models 🤖         | SciKitLearn 📘                    | [GitHub Repo](https://github.com/scikit-learn/scikit-learn)  |
 | Hyperparameter Tuning 🎛️          | Weights & Biases 📊, Optuna ⚙️    | [GitHub Repo](https://github.com/wandb/wandb)  |
 | Experiment Tracking 🧪             | Weights & Biases 📊, MLFlow 🔍    | [GitHub Repo](https://github.com/wandb/wandb)  |
 
