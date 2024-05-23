@@ -21,7 +21,7 @@
 
 | **ML-Tasks**                       | **Tool Box**                      | **GitHub Repository**                    |
 |------------------------------------|-----------------------------------|----------------------------------------|
-| Model Registry 🗄️                  | Weights & Biases 📊               | [GitHub Repo](https://github.com/wandb/wandb)  |
+| Model Registry 🗄️                  | [Weights & Biases 📊](https://github.com/wandb/wandb)               | [GitHub Repo](https://github.com/wandb/wandb)  |
 | Data Versioning 📊                 | Weights & Biases 📊               | [GitHub Repo](https://github.com/wandb/wandb)  |
 | ML-Pipeline 🛠️                    | Dagster 🔧                        | [GitHub Repo](https://github.com/dagster-io/dagster)  |
 | API 🚀                             | FAST API 🌐                       | [GitHub Repo](https://github.com/tiangolo/fastapi)  |
