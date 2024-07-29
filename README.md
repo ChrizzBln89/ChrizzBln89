@@ -9,13 +9,13 @@
 | **Primary Skills**                 | **Main Technologies**             | **Interests**                          |
 |------------------------------------|-----------------------------------|----------------------------------------|
 | 💻 Python                           | 🐍 Python                        | 🛠️ MLOps/ML-Engineering/Data Science  |
-| 🧠 Tensorflow/Keras                 | 🔥 PyTorch/Scikit-Learn          | 💰 Finance                             |
+| 🧠 Tensorflow/Keras                 | 🔥 Keras/Scikit-Learn            | 💰 Finance                             |
 | 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                  | 🎯 Recommendation Systems              |
 | 🐧 Linux (Fedora Workstation)       | ☁️ GCP                           | 🔄 Batch & Online Prediction           |
 | 🐳 Docker                           | 🐳 Docker                        | 📊 Continuous Training & Monitoring   |
 | 🌱 Git/GitHub                       | 🚀 FastAPI                       | ☁️ Cloud & Microservices              |
 |                                     | 🛠️ Dagster                       | 🌐 Distributed Systems                 |
-|                                     | 🐘 PostgreSQL                     |                                       |
+|                                     | 🐘 PostgreSQL                    |                                       |
 
 ## Tools I use for building scalable and robust ML-Models/Systems
 
