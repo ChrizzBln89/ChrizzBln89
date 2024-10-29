@@ -35,7 +35,7 @@
 | **Scaffold**                       | **GitHub Repository**                                                                                 |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 🚀 FastAPI + Limiter + Locust | [GitHub Repo](https://github.com/ChrizzBln89/fastapi_scaffold) |
-| 🔥 Keras/Scikit-Learn | [GitHub Repo](https://github.com/ChrizzBln89/fastapi_scaffold) |
+| 🔥 Scikit-Learn Pipelines | [GitHub Repo](https://github.com/ChrizzBln89/fastapi_scaffold) |
 | Cookiecutter Data Science 🏗️ | [GitHub Repo](https://github.com/drivendata/cookiecutter-data-science) |
 | Cookiecutter ML Project 🏗️ | [GitHub Repo](https://github.com/machine-learning-apps/cookiecutter-ml-project) |
 
