@@ -1,4 +1,4 @@
-![👋 Hi, my name is Chris](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
+![👋 Hi, my name is Christoph Bieritz](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
 
 # About Me - Christoph Bieritz CFA
 
