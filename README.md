@@ -30,7 +30,7 @@
 | Hyperparameter Tuning 🎛️          | [Weights & Biases 📊](https://github.com/wandb/wandb), [Optuna ⚙️](https://github.com/optuna/optuna)  |
 | Experiment Tracking 🧪             | [Weights & Biases 📊](https://github.com/wandb/wandb), [MLFlow 🔍](https://github.com/mlflow/mlflow)  |
 
-## Scaffold
+## Public Scaffold Folders for easy setup of Projects or Utility Functions/Services: 
 
 | **Scaffold**                       | **GitHub Repository**                                                                                 |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|
