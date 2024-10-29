@@ -34,6 +34,7 @@
 
 | **Scaffold**                       | **GitHub Repository**                                                                                 |
 |------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [🚀 FastAPI + Limiter + Locust](https://github.com/drivendata/cookiecutter-data-science) | [GitHub Repo](https://github.com/drivendata/cookiecutter-data-science) |
 | [Cookiecutter Data Science 🏗️](https://github.com/drivendata/cookiecutter-data-science) | [GitHub Repo](https://github.com/drivendata/cookiecutter-data-science) |
 | [Cookiecutter ML Project 🏗️](https://github.com/machine-learning-apps/cookiecutter-ml-project) | [GitHub Repo](https://github.com/machine-learning-apps/cookiecutter-ml-project) |
 
