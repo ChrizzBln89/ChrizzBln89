@@ -1,3 +1,15 @@
+![👋 Hi, my name is Sushil Magare](https://www.cloudtransformation.com.sg/wp-content/uploads/2018/08/banner-softwaredev.jpg)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Sushil Magare
+      </h1>
+    </summary>
+  </ul>
+</div>
+
 # About Me - Christoph Bieritz CFA
 
 👋 Senior Financial Analyst/ CFA Charterholder/ML Developer with ~10 years of experience. Worked at KPMG, RatePay, and ReCap. Specialize in Online/Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling.
