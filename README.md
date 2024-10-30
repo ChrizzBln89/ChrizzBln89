@@ -8,16 +8,57 @@
 
 ## Skills, Technologies & Interests
 
-| **Primary Skills**                 | **Main Technologies**             | **Interests**                          |
-|------------------------------------|-----------------------------------|----------------------------------------|
-| 💻 Python                           | 🐍 Python                        | 🛠️ MLOps/ML-Engineering/Data Science  |
-| 🧠 Keras                            | 🔥 Keras/Scikit-Learn            | 💰 Finance                             |
-| 🐼 Pandas/Polars/NumPy              | 🔢 NumPy/Pandas                  | 🎯 Recommendation Systems              |
-| 🐧 Linux (Fedora Workstation)       | ☁️ GCP                           | 🔄 Batch & Online Prediction           |
-| 🐳 Docker                           | 🐳 Docker                        | 📊 Continuous Training & Monitoring   |
-| 🌱 Git/GitHub                       | 🚀 FastAPI                       | ☁️ Cloud & Microservices              |
-|                                     | 🛠️ Dagster                       | 🌐 Distributed Systems                 |
-|                                     | 🐘 PostgreSQL                    |                                       |
+### Primary Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+### Main Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dagster/dagster-original.svg" height="40" alt="Dagster" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</div>
+
+### Interests
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="ML Engineering" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/finance/finance-original.svg" height="40" alt="Finance" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/recommender/recommender-original.svg" height="40" alt="Recommendation Systems" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/batchprocessing/batchprocessing-original.svg" height="40" alt="Batch Prediction" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datavisualization/datavisualization-original.svg" height="40" alt="Data Visualization" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloud/cloud-original.svg" height="40" alt="Cloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/distributed/distributed-original.svg" height="40" alt="Distributed Systems" />
+</div>
+
 
 ## Tools I use for building scalable and robust ML-Models/Systems
 
