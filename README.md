@@ -37,10 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dagster/dagster-original.svg" height="40" alt="Dagster" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-</div>
-
-### Interests
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="40" alt="ML Engineering" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/finance/finance-original.svg" height="40" alt="Finance" />
