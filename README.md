@@ -2,9 +2,7 @@
 
 # About Me - Christoph Bieritz CFA
 
-👋 Senior Financial Analyst/ CFA Charterholder/ML Developer with ~10 years of experience. Worked at KPMG, RatePay, and ReCap. Specialize in Online/Batch Prediction Services, credit risk evaluation, consumer credit loans, and financial modeling.
-
-💼 Expertise in designing and implementing modular, scalable, and production-ready machine learning systems.
+👋 Senior Financial Analyst/ CFA Charterholder/Machine Learning with ~10 years of experience. Worked at KPMG, RatePay, and ReCap. Specialize in credit risk evaluation, consumer credit loans, and financial modeling.
 
 ## Skills, Technologies & Interests
 
