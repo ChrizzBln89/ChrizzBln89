@@ -1,20 +1,29 @@
 # Christoph Bieritz, CFA | Applied Quant & Financial Engineer
 
-👋 **Builder-focused Financial Engineer.** Rund 10 Jahre Erfahrung an der Schnittstelle zwischen klassischer Finance (**Big4 Wirtschaftsprüfung**) und moderner Software-Entwicklung in führenden **Berlin Fintech Unicorns**. Mein Fokus liegt auf der Architektur skalierbarer Finanz-Infrastrukturen und der Automatisierung komplexer Risk-Modelle.
+👋 **Builder-focused Financial Engineer.** ~10 years of experience at the intersection of traditional finance (**Big4 Accounting**) and modern software development at leading **Berlin Fintech Unicorns**. My focus lies in architecting scalable financial infrastructures and automating complex risk models.
 
-## 🛠️ Detailed Tech Stack
+---
 
-| Kategorie | Technologien & Tools |
+### 💻 Tech Stack & Tooling
+
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Expert), SQL (PostgreSQL, BigQuery), VBA (Legacy Automation) |
-| **ML & Quant** | Reinforcement Learning (PPO), Keras, Scikit-Learn, NumPy, SDE Modeling |
-| **Infrastructure** | Docker, Linux, Git, Google Cloud Platform (GCP), BigQuery |
-| **Backend & Orchestration** | FastAPI, Dagster (Data Pipelines) |
-| **MLOps** | Weights & Biases (Experiment Tracking, Model Registry) |
-| **Finance & Analytics** | MS Excel (Expert), Google Sheets, Financial Modeling, Business Valuation, ABS/SPV Structures |
+| **Languages** | [Python](https://www.python.org/) (Expert), [SQL](https://www.postgresql.org/) ([BigQuery](https://cloud.google.com/bigquery)) |
+| **ML & Quant** | [Reinforcement Learning (PPO)](https://openai.com/research/openai-baselines-ppo), [Keras](https://keras.io/), [Scikit-Learn](https://scikit-learn.org/), [NumPy](https://numpy.org/), SDE Modeling |
+| **Infrastructure** | [Docker](https://www.docker.com/), [Linux](https://www.linux.org/), [Git](https://git-scm.com/), [Google Cloud Platform (GCP)](https://cloud.google.com/) |
+| **Orchestration** | [FastAPI](https://fastapi.tiangolo.com/), [Dagster](https://dagster.io/) (Data Pipelines) |
+| **MLOps** | [Weights & Biases](https://wandb.ai/) (Experiment Tracking & Model Registry) |
 
-## 🧠 Core Focus
+---
 
-* **Automated Infrastructure:** Entwicklung und Skalierung von Systemen zur automatisierten Verbriefung (Securitization) und Verwaltung komplexer Forderungsportfolien.
-* **Synthetic Markets:** Simulation von Kapitalmärkten mittels stochastischer Differentialgleichungen (SDEs) für robustes Modell-Training und algorithmische Stresstests.
-* **Applied AI:** Einsatz von Reinforcement Learning (RL) zur Optimierung quantitativer Entscheidungsfindungen im Portfolio- und Risikokontext.
+### 🧠 Core Focus
+
+* **⚡ Automated Infrastructure**
+    Architecting and scaling systems for automated securitization (**ABS**) and the management of complex debt portfolios within highly regulated environments.
+
+* **📉 Synthetic Markets**
+    Simulating capital markets using **Stochastic Differential Equations (SDEs)** and Euler-Maruyama discretization for robust model training and algorithmic stress testing.
+
+* **🧠 Applied AI**
+    Leveraging **Reinforcement Learning (RL)** and deep learning frameworks to optimize quantitative decision-making and portfolio management strategies.
+
